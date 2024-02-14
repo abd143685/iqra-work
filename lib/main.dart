@@ -144,7 +144,7 @@ void onStart(ServiceInstance service) async {
             ),
           ),
         );
-
+        //notification Lat Long
         flutterLocalNotificationsPlugin.show(
           889,
           'Location',
